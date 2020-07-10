@@ -1,6 +1,6 @@
 # hello-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot that replies to new issues and Prs
+> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot that replies to new issues and PRs
 
 ## Setup
 
